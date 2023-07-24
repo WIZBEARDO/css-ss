@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+  }
+  h1{
+    color:antiquewhite;
+    text-align: center;
+  }
+  p{
+    color:antiquewhite;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+  }
+  div{
+    display: flex;
+    width: 30%;
+    margin-left: 15%;
+    margin-top: 100px;
+    color: white;
+
+  }
+  .motivation{
+    border: 5px solid gold;
+    height:500px;
+    border-radius: 20%;
+
+  }
+  img{
+    
+    margin-left: 30%;
+    
+  }
+  
+  
+  .moti,.mot,.mo{
+    font-style: italic;
+    font-weight: bolder;
+
+  }
+  .ma,.man,.mans{
+    font-style: italic;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+  }
+  .mansa{
+    color: green;
+    font-style: italic;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    text-decoration: solid;
+    
+  }
